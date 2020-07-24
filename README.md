@@ -2,6 +2,9 @@
 
 Thin CLI client that lets you use sam-cli with AWS Single Sign-On and with your configured AWS profiles.
 
+### Installation
+`npm install -g @mhlabs/sam-sso-wrapper`
+
 ### Usage:
 ```
 sam-sso [args to pass on to sam-cli] --profile <profileName> 

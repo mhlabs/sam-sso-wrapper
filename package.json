@@ -1,6 +1,6 @@
 {
-  "name": "sam-sso-wrapper",
-  "version": "1.0.0",
+  "name": "@mhlabs/sam-sso-wrapper",
+  "version": "0.0.1",
   "description": "Thin wrapper that lets you use AWS SSO with SAM-cli",
   "main": "index.js",
   "scripts": {
@@ -13,9 +13,10 @@
   "keywords": [
     "aws",
     "sam",
-    "sso"
+    "sso",
+    "serverless"
   ],
-  "author": "mhdev",
+  "author": "mhlabs",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mhlabs/sam-sso-wrapper/issues"
