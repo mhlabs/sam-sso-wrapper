@@ -1,0 +1,32 @@
+{
+  "name": "sam-sso-wrapper",
+  "version": "1.0.0",
+  "description": "Thin wrapper that lets you use AWS SSO with SAM-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhlabs/sam-sso-wrapper.git"
+  },
+  "keywords": [
+    "aws",
+    "sam",
+    "sso"
+  ],
+  "author": "mhdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhlabs/sam-sso-wrapper/issues"
+  },
+  "homepage": "https://github.com/mhlabs/sam-sso-wrapper#readme",
+  "dependencies": {
+    "@mhlabs/aws-sso-client-auth": "^1.1.4",
+    "commander": "^6.0.0",
+    "inquirer": "^7.3.3"
+  },
+  "bin": {
+    "sam-sso": "index.js"
+  }
+}
