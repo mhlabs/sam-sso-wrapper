@@ -1,6 +1,6 @@
 {
   "name": "@mhlabs/sam-sso-wrapper",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Thin wrapper that lets you use AWS SSO with SAM-cli",
   "main": "index.js",
   "scripts": {
