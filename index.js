@@ -5,7 +5,7 @@ const inquirer = require('inquirer');
 const { spawn } = require("child_process");
 const prompt = inquirer.createPromptModule();
 
-program.version("0.0.1", "-v, --vers", "output the current version");
+program.version("0.0.2", "-v, --vers", "output the current version");
 program
   .option("-p, --profile [profile]", "AWS profile to use")
   .allowUnknownOption(true)
