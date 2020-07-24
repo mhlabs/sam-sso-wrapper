@@ -17,6 +17,7 @@ sam-sso deploy --guided --profile test
 
 If the --profile flag is omitted, your default profile is used
 If the --profile flag is included you will get prompted with a list of your configured profiles:
+
 ![Demo](https://raw.githubusercontent.com/mhlabs/sam-sso-wrapper/master/images/example-profiles.gif)
 
 ### Using alias
