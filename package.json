@@ -16,6 +16,9 @@
     "sso",
     "serverless"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "mhlabs",
   "license": "ISC",
   "bugs": {
