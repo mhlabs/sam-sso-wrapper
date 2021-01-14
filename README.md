@@ -1,3 +1,6 @@
+# DEPRECATED. Sam-cli supports AWS SSO authentication since [v1.1.0](https://github.com/aws/aws-sam-cli/releases/tag/v1.1.0) via the upgrade of boto3
+
+
 ## sam-sso-wrapper
 
 Thin CLI client that lets you use sam-cli with AWS Single Sign-On and with your configured AWS profiles.
